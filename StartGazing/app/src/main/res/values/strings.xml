@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StartGazing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pinterest_ID">4794740611406105318</string>
+    <string name="pinterest_secret">b764b172f71060a1fbace1958978652f1310498b4d919d672825abbffa9aaf25</string>
+    <string name="pinterest_token">ARDvGDlFZWbIe6DcUqbx0dmM0s4jFAsi2_quxWRCilit7SAIVgAAAAA</string>
+    <string name="officialboard">461478361756444419</string>
+</resources>
